@@ -24,3 +24,23 @@ The dashboards integrate healthcare data with visual analytics to identify high-
 - Performed spatial analysis of Village Coverage using QGIS Software
 
 - 🔗 Shapefile: [[Udupi_Village_Level_Shapefile🌍](https://github.com/bandhavya-putturaya/Malnutrition-Dashboard-Spatial-Study/blob/main/Shapefiles/Udupi_Village_Shapefiles.zip)]
+
+## Dashboard preview
+
+1. Dashbaord Preview of Severe Acute Malnutrition Report
+   [Severe Acute Malnutrition]()
+
+## key Insights: 
+
+  - 1
+  - 2
+  - 3
+
+3. dashboard preview of Moderate Acute Malnutrition Report
+   [Moderate Acute Malnutrition]()
+
+## key Insights: 
+
+  - 1
+  - 2
+  - 3
