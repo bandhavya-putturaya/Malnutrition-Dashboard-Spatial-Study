@@ -28,7 +28,7 @@ The dashboards integrate healthcare data with visual analytics to identify high-
 ## Dashboard preview
 
 1. Dashbaord Preview of Severe Acute Malnutrition Report
-   [Severe Acute Malnutrition]()
+   ![Severe Acute Malnutrition](https://github.com/bandhavya-putturaya/Malnutrition-Dashboard-Spatial-Study/blob/main/SAM.png)
 
 ## key Insights: 
 
@@ -37,7 +37,7 @@ The dashboards integrate healthcare data with visual analytics to identify high-
   - 3
 
 3. dashboard preview of Moderate Acute Malnutrition Report
-   [Moderate Acute Malnutrition]()
+   ![Moderate Acute Malnutrition](https://github.com/bandhavya-putturaya/Malnutrition-Dashboard-Spatial-Study/blob/main/MAM.png)
 
 ## key Insights: 
 
