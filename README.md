@@ -8,7 +8,7 @@ The dashboards integrate healthcare data with visual analytics to identify high-
 
 ## 🎯 Objectives
 
-1. Monitor and track Moderate Acute Malnutrition (MAM) and Severe Acute Malnutrition (SAM) cases across regions.
+1. Monitor and track Moderate Acute Malnutrition (MAM) [MAM_PROJECT_DATA](https://github.com/bandhavya-putturaya/Malnutrition-Dashboard-Spatial-Study/blob/main/MAM_Project.xlsx) and Severe Acute Malnutrition (SAM) cases across regions.
 2. Support the reduction of SAM cases by enabling their transition to MAM levels through data-driven insights.
 3. Identify high-burden villages and Taluks for targeted interventions.
 4. Analyze gender-wise distribution of malnutrition cases.
